@@ -1,5 +1,5 @@
 # PDF_bruter
-This a Nueric PDF bruter, this tool is able to find find the Passwords of the protected PDFs
+A Numeric PDF bruter, this tool is able to find the Passwords of the protected PDFs
 ### Bruteforce PDFs protected with numeric passwords
 
 This tool helps to find the Password of the PDF irrespective of length that a password contains but take a little more instead
