@@ -18,9 +18,9 @@ python bruter.py
 
 ### 1 digit of probable pattern
 
-![](.Screenshot2.png)
+![](.Screenshot3.png)
 
 ### 2 digit of probable pattern
 
-![](.Screenshot3.png)
+![](.Screenshot2.png)
 
